@@ -1,0 +1,43 @@
+.float{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.float1 > img{
+    float: right;
+    padding: 20px;
+}
+
+.float1{
+      border: solid 1px black;
+      padding: 20px;
+      text-align: center;
+      align-items: center;
+      text-wrap: wrap;
+}
+ 
+.float2 > img{
+    float: left;
+    padding: 20px;
+}
+
+.float2{
+    border: solid 1px black;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    text-wrap: wrap;
+}   
+
+.float3 > img{
+    float: right;
+    padding: 20px;
+}
+
+.float3{
+    border: solid 1px black;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    text-wrap: wrap;
+}

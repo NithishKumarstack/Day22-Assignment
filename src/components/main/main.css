@@ -1,0 +1,18 @@
+.main-container{
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: space-around;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     width: auto;
+}
+
+p{
+    font-weight: bold;
+    text-wrap: wrap;
+}
+
+h1{
+    text-wrap: wrap;
+}
